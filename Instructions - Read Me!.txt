@@ -1,0 +1,43 @@
+*How to start: Open up a command prompt or terminal in this folder (or navigate to it in the prompt/terminal) and enter:
+java -jar mazeofunknowndoom.jar
+
+*How to play: The game is broken into seperate section, each with the ability to either fight an enemy, view your stats, or continue on and fight the boss. Beating the boss will move you on to another section, and you can fight the boss whenever you want. Fighting an enemy will allow you to gain experience, but you may only fight up to ten enemies in the section before you have to fight the boss. 
+
+*During fight sequences: You will be given a choice to enter a command. After executing the command, your enemy will then take its turn, and the game continues into either you or your opponent run out of health. Here are the commands:
+->Attack: Standard attack. Costs no mana. 
+->Focus: Like the standard attack, except sacrifices some power for an great increase in accuracy. Costs 5 mana.
+->Rage: Similar to focus, but instead loses accuracy in turn for a massive amount of strength. Costs 5 mana.
+->Examine: Uses up 5 mana, and displays the enemy's current health, along with its stats in comparison to yours.
+->Magic: Allows you to cast a spell. See below for spells.
+(Note: You will learn one more command during the game)
+
+*Stats: Your stats will increase whenever you level up, and you will choose which stats to develop. Here are the stats:
+->Health: Allows you to keep fighting. If you reach 0, you die.
+->Mana: Required for using any command besides the standard attack. Each of those commands uses up a specific amount.
+->Attack: Your attack power. The higher attack you have, the more damage you will do to your opponent when you strike with either Attack, Focus, or Rage.
+->Defense: Reduces the damage taken from most attacks, aside from an enemy's special attack.
+->Concentration: When attacking with Attack, Focus, or Rage, this determines your chance of hitting the opponent. When using magic, it will determine the amount of health healed/damage done (aside from Absorb). 
+->Evasion: Helps increase your chances of evading an opponent.
+
+*Magic: You can cast a spell in battle, which will use up mana. Here are the spells:
+->Iceshards: Deals some damage to your opponent. Costs 30 mana.
+->Mageblast: Deals lots of damage to your opponent. Costs 50 mana.
+->Supernova: Deals massive amounts of damage to your opponent. Costs 150 mana.
+->Heal: Heals some of your health. Costs 35 mana.
+->Cure: Heals lots of your health. Costs 60 mana.
+->Purify: Heals massive amounts of your health. Costs 100 mana.
+->Absorb: Steals 30 health from your opponent, and restores your health by 30. Costs 70 mana.  
+(Note: You can also enter "cancel" if you want to exit out of the magic menu and enter a different battle command)
+
+*Saving: Your progress and stats will be saved automatically at the beginning of each section. It will also give you the choice to save if you die, just so that you can keep your experience that you gained. This is useful if you are having trouble getting past a part, as you can just keep improving until you beat it. But remember, on Hardcore difficulty mode, there is no saving!
+
+*Tips:
+--Read every instruction on the screen carefully, and always enter the commands it gives you correctly, for although most commands aren't case-sensitive, they do need to be spelled correctly.
+--Even if you beat a boss easily, it still is a good idea to level up a bit for the next boss.
+--Some enemies you may beat in a flash, while others you might struggle on. It depends on what stats/strategy is best for fighting that particular enemy. Always be prepared to try new strategies if your current one isn't working so well.
+--When in doubt, get more experience. It will make things easier. It's recommended, especially on the harder difficulty settings, to gain at least one level before fighting the next boss.
+--Some of the game text may be a little... tongue in cheek. Programming can be a boring job unless you spice things up from time to time. All I can say is sorry, just deal with it. 
+
+
+
+Anything else will be explained in the game as you go. Good luck, and have fun! 
